@@ -51,6 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dilip9398/dilip9398/output/snake.svg" alt="Snake animation" />
+
 
 ###
