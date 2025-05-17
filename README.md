@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Kancherla Dilip<br>I’m a Computer Science and Engineering (CSE) student 🎓 who’s diving headfirst into the exciting world of Web Development 💻. I’m all about turning ideas into reality, one line of code at a time! 🌟</p>
+<p align="left">I'm Kancherla Dilip<br>I’m a Computer Science and Engineering (CSE) student 🎓 who’s diving headfirst into the exciting world of technology. 🌟</p>
 
 ###
 
@@ -47,4 +47,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
 
